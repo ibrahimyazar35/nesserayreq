@@ -1,0 +1,11 @@
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\bin\Debug\Hesap VE Liste.exe.config
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\bin\Debug\Hesap VE Liste.exe
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\bin\Debug\Hesap VE Liste.pdb
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.csproj.SuggestedBindingRedirects.cache
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap_VE_Liste.Form1.resources
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap_VE_Liste.Properties.Resources.resources
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.csproj.GenerateResource.cache
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.exe
+C:\Users\İbrahim\Source\Repos\Hesap VE Liste\Hesap VE Liste\obj\Debug\Hesap VE Liste.pdb
